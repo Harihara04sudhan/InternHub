@@ -1,7 +1,9 @@
-#Image Captioning with BLIP Model
+# Image Captioning with BLIP Model
+
+
 This project demonstrates how to generate image captions using the Salesforce BLIP Image Captioning Large Model. By combining Computer Vision and Natural Language Processing (NLP), the model extracts image features and generates descriptive captions.
 
-##Table of Contents
+## Table of Contents
 Installation
 Prerequisites
 Usage
@@ -10,7 +12,7 @@ Challenges
 Example Output
 References
 
-###Installation
+### Installation
 To run this project, you need to install the necessary dependencies. Run the following command to install the required libraries:
 
 transformers: To load the pre-trained BLIP model.
